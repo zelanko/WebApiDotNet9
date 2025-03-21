@@ -4,3 +4,8 @@ GET {{WebApiDotNet9_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{WebApiDotNet9_HostAddress}}/api/v1/controller
+Accept: application/json
+
+###
